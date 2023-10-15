@@ -1,2 +1,2 @@
-lenslocked
-tmp
+**/lenslocked
+**/*.log
